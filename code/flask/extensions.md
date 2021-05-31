@@ -68,3 +68,7 @@ def logout():
     flash("You are logged out", "success")
     return redirect(url_for("home"))
 ```
+
+## [Flask-Mail](https://pythonhosted.org/Flask-Mail/): provides a simple interface to set up SMTP with your Flask application and to send messages from your views and scripts
+
+## [Flask-WTF](https://flask-wtf.readthedocs.io/en/latest/): Simple integration of Flask and [WTForms](https://wtforms.readthedocs.io/en/master/), including CSRF, file upload, and reCAPTCHA
