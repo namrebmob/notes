@@ -81,3 +81,10 @@ scipy.stats
 ```
 
 [documentation on pkgutil](http://docs.python.org/library/pkgutil.html).
+
+import packages only from current workdir
+
+```py
+# x is ModuleInfo(module_finder, name: str, ispkg: bool)
+[x[1] for x in pkgutil.iter_modules(path=["app"]) if x[2]]
+```
