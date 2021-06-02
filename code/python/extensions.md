@@ -10,3 +10,7 @@
 - [Werkzeug](https://palletsprojects.com/p/werkzeug/): The comprehensive WSGI web application library
 
 ## [Advanced Python Scheduler](https://apscheduler.readthedocs.io/en/stable/): is a Python library that lets you schedule your Python code to be executed later, either just once or periodically
+
+## [Factory Boy](https://factoryboy.readthedocs.io/en/stable/index.html): is a fixtures replacement based on thoughtbot’s [factory_bot](https://github.com/thoughtbot/factory_bot)
+
+[WTForms](https://wtforms.readthedocs.io/en/2.3.x/): is a flexible forms validation and rendering library for Python web development

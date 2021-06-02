@@ -4,11 +4,11 @@
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
 
-from config import cnf
+
+SQLALCHEMY_DATABASE_URI = "sqlite:///./db.sqlite3"
 
 engine = create_engine(cnf.SQLALCHEMY_DATABASE_URI)
-
-Session = sessionmaker(engine, autocommit=cnf.SQLALCHEMY_AUTOCOMMIT, autoflush=cnf.SQLALCHEMY_AUTOFLUSH)
+Session = sessionmaker(engine)
 
 def get_sesion() -> Session:
     session = Session()
@@ -16,3 +16,4 @@ def get_sesion() -> Session:
         yield session
     finally:
         session.close()
+```

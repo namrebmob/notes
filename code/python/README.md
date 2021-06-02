@@ -1,8 +1,8 @@
-# [Python](https://www.python.org): is a programming language that lets you work quickly and integrate systems more effectively
+# [Python](https://www.python.org) is a programming language that lets you work quickly and integrate systems more effectively
 
 <https://docs.python.org/3/>
 
-the [Python Package Index](https://pypi.org): is a repository of software for the Python programming language.
+the [Python Package Index](https://pypi.org) is a repository of software for the Python programming language.
 
 [The Python Standard Library][https://docs.python.org/3/library/]
 

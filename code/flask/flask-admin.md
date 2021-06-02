@@ -1,4 +1,4 @@
-# [Flask Admin](flask-admin.readthedocs.io)
+# [Flask Admin](flask-admin.readthedocs.io) Simple and extensible administrative interface framework for Flask
 
 - [Flask-Admin Hacks for Many-to-Many Relationships](https://wordpressify.ru/2018/09/flask-admin-hacks-for-many-to-many-relationships/)
 - [SQLA examples](https://github.com/flask-admin/flask-admin/blob/master/examples/sqla/admin/main.py)

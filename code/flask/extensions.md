@@ -72,3 +72,9 @@ def logout():
 ## [Flask-Mail](https://pythonhosted.org/Flask-Mail/): provides a simple interface to set up SMTP with your Flask application and to send messages from your views and scripts
 
 ## [Flask-WTF](https://flask-wtf.readthedocs.io/en/latest/): Simple integration of Flask and [WTForms](https://wtforms.readthedocs.io/en/master/), including CSRF, file upload, and reCAPTCHA
+
+
+## [Bootstrap-Flask](https://bootstrap-flask.readthedocs.io/en/stable/): Bootstrap 4 helper for Flask/Jinja2
+
+[Demo Application](https://github.com/greyli/bootstrap-flask)
+[Use Macros](https://bootstrap-flask.readthedocs.io/en/stable/macros.html)

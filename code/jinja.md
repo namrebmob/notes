@@ -1,5 +1,5 @@
-# Jinja
+# [Jinja](https://jinja.palletsprojects.com/en/latest/) is a fast, expressive, extensible templating engine
 
-## How to
+## Howto
 
 - Add lorem ipsum `{{ lipsum(1) }}`

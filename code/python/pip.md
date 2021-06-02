@@ -1,4 +1,4 @@
-# [pip](https://pip.pypa.io/en/stable/): is the package installer for Python
+# [pip](https://pip.pypa.io/en/stable/) is the package installer for Python
 
 ## Install from github branch
 

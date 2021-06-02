@@ -1,9 +1,10 @@
-# Flask SQLAlchemy
+# [Flask-SQLAlchemy](https://flask-sqlalchemy.palletsprojects.com) is an extension for Flask that adds support for SQLAlchemy to your application
 
 ## Custom Base Query
 
 ```py
 from flask_sqlalchemy import BaseQuery
+
 
 class FooQuery(BaseQuery):
     def all_latest_paginated(self):
@@ -16,5 +17,4 @@ class FooQuery(BaseQuery):
 
 class Foo(db.Model):
     query_class = FooQuery
-
 ```

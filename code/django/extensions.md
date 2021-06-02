@@ -1,10 +1,9 @@
-# Django
+# Useful Django extensions
 
-## A set of useful batteries Django
 - django-ckeditor
 - django-autocomplete-light
 - django-tagging
-- django-bootstrap3
+- [django-bootstrap4](https://django-bootstrap4.readthedocs.io/): Bootstrap4 integration for Django
 - django-modeltranslation
 - django-daterange-filter
 - django-phonenumber-field

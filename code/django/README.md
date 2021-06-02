@@ -1,0 +1,1 @@
+# [Django](https://docs.djangoproject.com/en/) is a high-level Python Web framework that encourages rapid development and clean, pragmatic design
